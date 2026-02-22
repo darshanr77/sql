@@ -1,3 +1,0 @@
-respresentational state transfer
-
-the rules that is created to crete web services

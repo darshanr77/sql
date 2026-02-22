@@ -1,5 +1,0 @@
-GET  ->  retrives resources
-POST ->  submits new data to server
-PUT  ->  updates exisitng data
-PATCH -> updates existing data partially
-DELETE -> removes data
